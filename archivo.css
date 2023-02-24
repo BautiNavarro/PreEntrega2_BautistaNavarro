@@ -1,0 +1,90 @@
+.navbar{
+    background-color: #343a40;
+}
+
+.navbar a{
+    color:white
+}
+
+#Foto7{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto4{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto13{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto12{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto15{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto8{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto5{
+    width: 350px;
+    height: 350px;
+}
+
+#Foto14{
+    width: 350px;
+    height: 350px;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+}
+
+iframe{
+    height: 225px;
+    width: 330px;
+    border-radius: 15px;
+}
+
+.Cuadrado1{
+    background-color: lightgray;
+}
+
+.Cuadrado2{
+    background-color: lightgray;
+}
+
+.circular--portrait {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .circular--portrait img {
+    width: 100%;
+    height: auto;
+  }
+  
