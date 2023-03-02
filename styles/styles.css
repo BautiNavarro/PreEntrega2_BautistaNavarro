@@ -2,48 +2,9 @@
     background-color: #343a40;
 }
 
-.navbar a{
-    color:white
-}
-
-#Foto7{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto4{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto13{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto12{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto15{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto8{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto5{
-    width: 350px;
-    height: 350px;
-}
-
-#Foto14{
-    width: 350px;
-    height: 350px;
+img{
+    width: 250px;
+    height: 250px;
 }
 
 p{
@@ -61,8 +22,8 @@ h2{
 }
 
 iframe{
-    height: 225px;
-    width: 330px;
+    height: 200px;
+    width: 300px;
     border-radius: 15px;
 }
 
@@ -87,4 +48,3 @@ iframe{
     width: 100%;
     height: auto;
   }
-  
