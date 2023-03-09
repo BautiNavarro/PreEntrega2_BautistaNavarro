@@ -1,0 +1,51 @@
+.navbar {
+  background-color: #343a40;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+}
+
+iframe {
+  height: 200px;
+  width: 300px;
+  border-radius: 15px;
+}
+
+.Cuadrado1 {
+  background-color: lightgray;
+}
+
+.Cuadrado2 {
+  background-color: lightgray;
+}
+
+.circular--portrait {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  position: relative;
+}
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+
+/*# sourceMappingURL=estilo.css.map */
