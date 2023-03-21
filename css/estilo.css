@@ -3,35 +3,28 @@
 }
 
 img {
+  margin: 9px;
   width: 250px;
   height: 250px;
 }
 
 p {
-  font-family: "Josefin Sans", sans-serif;
-  font-family: "Montserrat", sans-serif;
   font-family: "Raleway", sans-serif;
   font-size: 20px;
 }
 
 h2 {
-  font-family: "Josefin Sans", sans-serif;
-  font-family: "Montserrat", sans-serif;
   font-family: "Raleway", sans-serif;
   font-size: 24px;
 }
 
 iframe {
   height: 200px;
-  width: 300px;
+  width: 230px;
   border-radius: 15px;
 }
 
 .Cuadrado1 {
-  background-color: lightgray;
-}
-
-.Cuadrado2 {
   background-color: lightgray;
 }
 
