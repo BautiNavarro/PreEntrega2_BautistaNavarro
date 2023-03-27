@@ -16,6 +16,10 @@ $circular-border-radius: 50%;
 background-color: $primary-color;
 }
 
+.navbar-nav li a {
+    color: white;
+ }
+
 img {
 margin: 9px;
 width: $image-width;
